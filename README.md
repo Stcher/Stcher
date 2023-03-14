@@ -1,4 +1,4 @@
-Hi 👋 My name is Stanislav Cherkiy
+Hi 👋 My name is Stanislav Chervinskiy
 ==================================
 
 Front-end Developer from Ukraine
