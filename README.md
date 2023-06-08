@@ -6,7 +6,7 @@ Front-end Developer from Ukraine
 
 * 🌍  I'm based in Ukraine, Ivano-Frankivsk
 * ✉️  You can contact me at [st.cherkiy@gmail.com](mailto:st.cherkiy@gmail.com)
-* 🧠  I'm learning React/JavaScript/NodeJS/Swift/Flutter
+* 🧠  I'm learning React/JavaScript/NodeJS/Swift/Flutter right now
 
 ### Skills
 
